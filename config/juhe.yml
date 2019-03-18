@@ -1,0 +1,4 @@
+development:
+  api_key: "d7a6369512ad0ab809c6214b0a880f66"
+production:
+  api_key: "d7a6369512ad0ab809c6214b0a880f66"
